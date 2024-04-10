@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "narmenc.github.io",
+  "Id": "9a3e9c2b-960e-463b-9bbe-5d3220beee83"
+}
